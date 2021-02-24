@@ -10,6 +10,8 @@ mouhannad.m.kh98@gmail.com +96179138218 Tripoli, Lebanon
 
 ## Software engineering trainee
 
+![resourceful](http://www.executivecoachny.com/wp-content/uploads/resourcefulness-gears.jpg)
+
 ## Intelligile
 
 ```
