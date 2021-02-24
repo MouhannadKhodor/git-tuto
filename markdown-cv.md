@@ -24,7 +24,7 @@ Contact:Bahaa - our supervisor-+
 2019 - Present , Tripoli
 Contact:Ali joud-+
 ```
-## IT Trainee
+## Junior IT Trainee
 
 ## Qabass Computers
 
