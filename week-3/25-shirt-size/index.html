@@ -29,7 +29,14 @@
                 </div>
               </td>
               <td>
-                Medium
+                <label class="screenreader" for="fsize">Choose a size</label>
+                <form method="GET" id="fsize">
+                  <select name="size" id="size">
+                    <option value="small">Small</option>
+                    <option value="medium" selected>Medium</option>
+                    <option value="large">Large</option>
+                  </select>
+                </form>
               </td>
               <td>
                 1
